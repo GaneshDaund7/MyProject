@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Trainning-Assignment\Trainning-Assignment\bin\Debug\Trainning-Assignment.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Trainning-Assignment\Trainning-Assignment\bin\Debug\Trainning-Assignment.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Trainning-Assignment\Trainning-Assignment\obj\x86\Debug\Trainning-Assignment.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Trainning-Assignment\Trainning-Assignment\obj\x86\Debug\Trainning-Assignment.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Trainning-Assignment\Trainning-Assignment\bin\Debug\Matrix.csv
+D:\Ganesh Daund\desktop\Trainning-Assignments-Project\Trainning-Assignment\Trainning-Assignment\bin\Debug\Matrix.csv
+D:\Ganesh Daund\desktop\Trainning-Assignments-Project\Trainning-Assignment\Trainning-Assignment\bin\Debug\Trainning-Assignment.exe
+D:\Ganesh Daund\desktop\Trainning-Assignments-Project\Trainning-Assignment\Trainning-Assignment\bin\Debug\Trainning-Assignment.pdb
+D:\Ganesh Daund\desktop\Trainning-Assignments-Project\Trainning-Assignment\Trainning-Assignment\obj\x86\Debug\Trainning-Assignment.csproj.AssemblyReference.cache
+D:\Ganesh Daund\desktop\Trainning-Assignments-Project\Trainning-Assignment\Trainning-Assignment\obj\x86\Debug\Trainning-Assignment.csproj.CoreCompileInputs.cache
+D:\Ganesh Daund\desktop\Trainning-Assignments-Project\Trainning-Assignment\Trainning-Assignment\obj\x86\Debug\Trainning-Assignment.exe
+D:\Ganesh Daund\desktop\Trainning-Assignments-Project\Trainning-Assignment\Trainning-Assignment\obj\x86\Debug\Trainning-Assignment.pdb
